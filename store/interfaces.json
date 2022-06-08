@@ -1,0 +1,6 @@
+{
+  "banner-layout": {
+    "component": "BannerCustom",
+    "composition": "children"
+  }
+}
